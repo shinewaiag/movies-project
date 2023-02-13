@@ -192,6 +192,10 @@ header {
 
 }
 
+.box {
+   text-align: center;
+}
+
 .box .box-image {
    width: 200px;
    height: 300px; 
